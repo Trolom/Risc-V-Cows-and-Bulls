@@ -12,6 +12,9 @@
         ◦ Displays the count of cows and bulls
         ◦ Ends the game if the player guesses the number correctly
     4. Displays a losing message and the secret number
+    
+![image](https://github.com/user-attachments/assets/7dabd1f7-13a5-460c-a2ea-6089d4f0d8fd)
+![image](https://github.com/user-attachments/assets/53c404b7-dcec-406b-9f0d-672b0fc67906)
 
 ## Functions:
 
@@ -27,5 +30,3 @@ Compares each digit in parsed_input with the corresponding digit in secret_numbe
 Increments the bull count if a digit matches in the correct position.
 Increment the cow count if the digit is from secret number but not in the correct position.
 Displays the counts of cows and bulls.
-
-![image](https://github.com/user-attachments/assets/7dabd1f7-13a5-460c-a2ea-6089d4f0d8fd)
