@@ -30,3 +30,6 @@ Compares each digit in parsed_input with the corresponding digit in secret_numbe
 Increments the bull count if a digit matches in the correct position.
 Increment the cow count if the digit is from secret number but not in the correct position.
 Displays the counts of cows and bulls.
+
+
+Link to RARS(Simulator for RISC V): https://github.com/TheThirdOne/rars
